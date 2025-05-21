@@ -1,4 +1,4 @@
-# Awesome Books Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
+# [Awesome Books Mind Maps](https://mindmapai.app/mind-maps/history) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 Organize your reading journey and insights with project management and mind maps AI to track books, summarize content, and set learning goals. Mind maps AI helps readers visualize key themes, manage reading plans, and turn knowledge from books into actionable growth.
 
